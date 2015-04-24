@@ -54,6 +54,7 @@ var CompoundCalculatorInc = React.createClass({displayName: "CompoundCalculatorI
             )
           )
         ), 
+        React.createElement("div", {className: "clearfix"}), 
         React.createElement("div", {className: "form-group"}, 
           React.createElement("label", {className: "col-xs-4 control-label"}, "Annual addition"), 
           React.createElement("div", {className: "col-xs-8"}, 
@@ -65,6 +66,7 @@ var CompoundCalculatorInc = React.createClass({displayName: "CompoundCalculatorI
             )
           )
         ), 
+        React.createElement("div", {className: "clearfix"}), 
         React.createElement("div", {className: "form-group"}, 
           React.createElement("label", {className: "col-xs-4 control-label"}, "Expected annual return"), 
           React.createElement("div", {className: "col-xs-8"}, 
@@ -76,6 +78,7 @@ var CompoundCalculatorInc = React.createClass({displayName: "CompoundCalculatorI
             )
           )
         ), 
+        React.createElement("div", {className: "clearfix"}), 
         React.createElement("div", {className: "form-group"}, 
           React.createElement("label", {className: "col-xs-4 control-label"}, "Time"), 
           React.createElement("div", {className: "col-xs-8"}, 
@@ -87,6 +90,7 @@ var CompoundCalculatorInc = React.createClass({displayName: "CompoundCalculatorI
             )
           )
         ), 
+        React.createElement("div", {className: "clearfix"}), 
         React.createElement("div", {className: "form-group"}, 
           React.createElement("label", {className: "col-xs-4 control-label"}, "Final amount"), 
           React.createElement("div", {className: "col-xs-8"}, 

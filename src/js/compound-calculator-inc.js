@@ -53,6 +53,7 @@ var CompoundCalculatorInc = React.createClass({
             </input>
           </div>
         </div>
+        <div className="clearfix"></div>
         <div className="form-group">
           <label className="col-xs-4 control-label">Annual addition</label>
           <div className="col-xs-8">
@@ -64,6 +65,7 @@ var CompoundCalculatorInc = React.createClass({
             </input>
           </div>
         </div>
+        <div className="clearfix"></div>
         <div className="form-group">
           <label className="col-xs-4 control-label">Expected annual return</label>
           <div className="col-xs-8">
@@ -75,6 +77,7 @@ var CompoundCalculatorInc = React.createClass({
             </input>
           </div>
         </div>
+        <div className="clearfix"></div>
         <div className="form-group">
           <label className="col-xs-4 control-label">Time</label>
           <div className="col-xs-8">
@@ -86,6 +89,7 @@ var CompoundCalculatorInc = React.createClass({
             </input>
           </div>
         </div>
+        <div className="clearfix"></div>
         <div className="form-group">
           <label className="col-xs-4 control-label">Final amount</label>
           <div className="col-xs-8">
